@@ -26,6 +26,9 @@ const config = {
       },
     },
     extend: {
+      height: {
+        inherit: "inherit", // Add the `inherit` value to the height utility
+      },
       colors: {
         black: {
           DEFAULT: "#000",

@@ -40,7 +40,7 @@ const Clients = () => {
                   width={company.id === 4 || company.id === 5 ? 100 : 150}
                   className="md:w-24 w-20"
                 /> */}
-                <p className="text-xs md:text-base text-white-100 font-semibold">
+                <p className="text-xs md:text-[32px] text-white-100 font-semibold">
                   {company.name}
                 </p>
               </div>
