@@ -72,6 +72,14 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
+    title: "Excalidraw",
+    des: "Excalidraw is a powerful, user-friendly digital whiteboard application that empowers teams and individuals to visualize ideas, collaborate in real-time, and create stunning diagrams with ease. Inspired by the simplicity and flexibility of Excalidraw",
+    img: "/excalidraw.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://excalfnt.100xsam.store/",
+  },
+  {
+    id: 2,
     title: "Promptopia",
     des: "Promptopia enables individuals to manage their prompts efficiently within a personalized and secure environment.",
     img: "/promptopia.png",
@@ -79,7 +87,7 @@ export const projects = [
     link: "https://prompt-store-chi.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Yoom - Video Conferencing App",
     des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
     img: "/Zoom-Clone.png",
@@ -87,7 +95,7 @@ export const projects = [
     link: "https://zoom-clone-im7jeeept-sameer-raos-projects.vercel.app/",
   },
   {
-    id: 3,
+    id: 4,
     title: "ImageBazar",
     des: "ImageBazar is a versatile platform designed for image sharing, allowing users to post images, save favorites, and engage through comments.",
     img: "/imagebazar.png",
@@ -95,7 +103,7 @@ export const projects = [
     link: "https://image-bazzar.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     title: "Disney Clone",
     des: "This project is a replication of Disney+ Hotstar, providing users with the ability to watch movies",
     img: "/disney.png",
